@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,7 +20,7 @@
     </style>
 </head>
 <body>
-    <header class="w-full h-5">
+    <header class=" w-full h-5 ">
         <nav class="border border-red-400 w-full h-5 "></nav>
     </header>
 </body>
