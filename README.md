@@ -30,7 +30,6 @@
                 <li><a href="#" class="px-4">Contactez moi</a></li>
             </ul>
             <button class="border border-white  px-2 py-3 rounded-md bg-black text-white hover:bg-white hover:text-black hover:border-black duration:500">Téléchargez mon Cv</button>
-            
         </nav>
     </header>
 </body>
